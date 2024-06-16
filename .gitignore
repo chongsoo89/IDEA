@@ -5,3 +5,7 @@
 
 # Compiled Object files
 x64/*
+
+# build folder
+
+build
